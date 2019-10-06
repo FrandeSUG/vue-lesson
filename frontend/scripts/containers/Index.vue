@@ -17,7 +17,7 @@ import TaskFoot from 'scripts/components/TaskFoot.vue'
 export default {
   name: 'Index',
   data () {return {
-    todos: [{name: "a", checked: false}, {name: "b", checked: false}, {name: "a", checked: false}]
+    todos: [{name: "a", checked: false}, {name: "b", checked: false}, {name: "c", checked: false}]
   }},
   components: {
     TaskHead,
